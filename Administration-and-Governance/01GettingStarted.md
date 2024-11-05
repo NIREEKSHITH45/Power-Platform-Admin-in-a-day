@@ -24,11 +24,13 @@
   
       ![](images/M01/password.png)
 
+6. If an **Action Required** pop-up appears, select **Ask Later**.
+
 6.  Once logged in, click on **Environment** and select the default environment named **OTU WA CNE <inject key="Deployment ID" enableCopy="false" />**.
 
     ![](images/M01/otu-env.png)
 
-7. Select **Solutions** and click on **Create database**.
+7. Select **Solutions (1)** and click on **Create database (2)**.
 
     ![](images/M01/solution.png)
 
@@ -36,5 +38,6 @@
  
     ![](images/M01/database.png)
 
+   > **Note : If a language has not been selected, please choose your preferred language.**
 
 **Now you can click on **Next** on the bottom of the lab guide to start the HOL**
