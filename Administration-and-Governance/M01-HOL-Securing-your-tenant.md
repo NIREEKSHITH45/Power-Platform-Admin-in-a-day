@@ -53,7 +53,7 @@
    - Task 3: Share app
 
 
-#### Hands-on lab
+### Hands-on lab
 
 ## Lab Scenario
 
@@ -163,7 +163,7 @@ In this exercise, you will be exploring the tenant to see what Power Platform as
     you scroll down the list you might notice some names are more deliberate e.g., Product Showcase. Later in the course, we will talk about how to identify these upcoming apps so you 
     can help guide them to ensure they mature and have adequate governance.
 
-23. Click on the **... (1)** and select **Details (2)** to view app details, such as App Type (Standard/Premium), Web link, Connections and Shared information.
+23. Click on the **ellipsis (...) (1)** and select **Details (2)** to view app details, such as App Type (Standard/Premium), Web link, Connections and Shared information.
 
     ![](images/M01/po5.png)
 
