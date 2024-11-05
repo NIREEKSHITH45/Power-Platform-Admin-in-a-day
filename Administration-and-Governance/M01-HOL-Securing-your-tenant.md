@@ -402,7 +402,7 @@ In this exercise, you will create an environment, and a flow, and then view the 
 
 In this task, you will create an environment-specific DLP and see how it impacts your workflow.
 
-1. Navigate back to the Power Platform admin center. If you’re on the Power Apps website, you can do this by selecting the gear in the header, and selecting **Admin Center**.
+1. Navigate back to the **Power Platform admin center**. If you’re on the Power Apps website, you can do this by selecting the gear in the header, and selecting **Admin Center**.
 
    ![](images/M01/M1-EX4-T3-S1.png)
 
@@ -550,8 +550,6 @@ ID Security group and assign the security role you just built.
 
 20. Select **Run flow**.
 
-    ![](images/M01/M1-EX5-T1-S20.png)
-
 21. Select **Done** and wait for the run to complete.
 
     ![](images/M01/M1-EX5-T1-S21.png)
@@ -589,11 +587,11 @@ ID Security group and assign the security role you just built.
 
    ![](images/M01/M1-EX5-T2-S2.png)
 
-3. Select **+ New (1)** and select **Security** > **Security role (2)**.
+3. Select **+ New (1)** and select **Security (2)** > **Security role (2)**.
 
     ![](images/M01/M1-EX5-T2-S3.png)
 
-4. Enter **Project Manager (1)** for **Role Name**  and select **Save (2)**.
+4. Enter **Project Manager (1)** for **Role Name** then select Business unit from the dropdown and select **Save (2)**.
 
    ![](images/M01/M1-EX5-T2-S4.png)
 
