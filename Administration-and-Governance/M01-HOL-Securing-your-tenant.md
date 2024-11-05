@@ -220,7 +220,7 @@ In this exercise, you will be exploring the tenant to see what Power Platform as
 
 12. To exit this screen, select the **Data Policies** section on the left-hand side, or the **Cancel** button on the bottom right of the screen again.
 
-    ![](images/M01/M1-EX1-T2-S9.png)
+    ![](images/M01/M1-EX1-T2-S9u.png)
 
 
 ## Exercise 2: Plan an environment strategy
