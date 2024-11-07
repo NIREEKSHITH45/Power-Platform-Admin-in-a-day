@@ -271,9 +271,11 @@ get wasted.
 In this task, you use the information from Task 1’s scenario to help you propose an environment plan for Fabrikam. To help you build the plan we have prepared a worksheet with questions 
 for you to answer.
 
-1. Open **M01 – HOL Environment Worksheet.docx** from the Resources folder and complete it by answering each of the questions. You should spend no more than 10 minutes on this before 
-   proceeding to the next task.
+1. Navigate to below mentioned path and  Open **M01 – HOL Environment Worksheet.docx** from the Resources folder and complete it by answering each of the questions. You should spend no more than 10 minutes on this before proceeding to the next task.
 
+```
+
+```
 
 ### Task 3: Review the example environment plan and compare it to yours
 
@@ -295,8 +297,7 @@ In this exercise, you will be planning a DLP strategy for Fabrikam using the sam
 In this task, you use the information from the last exercise’s scenario to help you propose a DLP plan for Fabrikam. To help you build the plan we have prepared a worksheet with questions 
 for you to answer.
 
-1. Open **M01 – HOL DLP Worksheet.docx** from the Resources folder and complete it by answering each of the questions. You should spend no more than 10 minutes on this before proceeding 
-   to the next task.
+1. Open **M01 – HOL DLP Worksheet.docx** from the Resources folder and complete it by answering each of the questions. You should spend no more than 10 minutes on this before proceeding to the next task.
 
 ### Task 2: Review the example DLP plan and compare it to yours
 
@@ -317,11 +318,11 @@ In this exercise, you will create an environment, and a flow, and then view the 
 
 1. Navigate to the Power Platform admin center.
 
-2. Select **Environments** and select **+ New**.
+2. Select **Environments (1)** and select **+ New (2)**.
 
    ![](images/M01/M1-EX4-T1-S2.png)
 
-3. Enter **My Sandbox-<inject key="Deployment ID" enableCopy="false" />** for Name, select Region as **United States - Default**, select **Trial** as Type, select **Yes** for Add a Dataverse data store?, and select **Next**.
+3. Enter **My Sandbox-<inject key="Deployment ID" enableCopy="false" /> (1)** for Name, select Region as **United States - Default (2)**, select **Trial (3)** as Type, select **Yes (4)** for Add a Dataverse data store?, and select **Next (5)**.
 
    ![](images/M01/po6.png)
 
@@ -342,7 +343,7 @@ In this exercise, you will create an environment, and a flow, and then view the 
 
    ![](images/M01/M1-EX4-T2-S2-1.png)
 
-3. Enter **Weather Flow** for **Name**, select **Repeat every 1 Day**, and select **Create**.
+3. Enter **Weather Flow (1)** for **Name**, select **Repeat every 1 Day (2)**, and select **Create (3)**.
 
     ![](images/M01/po9.png)
 
@@ -360,9 +361,9 @@ In this exercise, you will create an environment, and a flow, and then view the 
 
    ![](images/M01/M1-EX4-T2-S7.png)
 
-8. Provide your email for **To:** **<inject key="AzureAdUserEmail"></inject>** and enter **Current Weather** for **Subject**.
+8. Provide your email for **To:** **<inject key="AzureAdUserEmail"></inject> (1)** and enter **Current Weather (2)** for **Subject**.
 
-9. Select on the Body enter **Current weather for:** and select **Location** from the Dynamic content pane.
+9. Select on the Body enter **Current weather for:** and select **Location (3)** from the Dynamic content pane.
 
    ![](images/M01/M1-EX4-T2-S9.png)
 
@@ -587,7 +588,7 @@ ID Security group and assign the security role you just built.
 
    ![](images/M01/M1-EX5-T2-S2.png)
 
-3. Select **+ New (1)** and select **Security (2)** > **Security role (2)**.
+3. Select **+ New (1)** and select **Security (2)** > **Security role (3)**.
 
     ![](images/M01/M1-EX5-T2-S3.png)
 
