@@ -353,7 +353,7 @@ In this exercise, you will create an environment, and a flow, and then view the 
 
    ![](images/M01/M1-EX4-T2-S5.png)
 
-6. Provide your **Location (1)**, select your preferred **Units (2)**, and select **+ New step (3)**.
+6. Provide Denver for  **Location (1)**, select your preferred **Units (2)**, and select **+ New step (3)**.
 
    ![](images/M01/M1-EX4-T2-S6.png)
 

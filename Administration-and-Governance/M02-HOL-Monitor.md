@@ -76,11 +76,11 @@ Now in this exercise, you will explore the out-of-the-box analytics that are ava
 
 1. Navigate to **Power Platform admin center**.
 
-2. Select **Analytics > Power Apps**.
+2. Select **Analytics > Power Apps** from the left pane.
 
     ![](images/M02/tenant-analytics1.png)
 
-3. Select the Overview tab and select **Enable** to redirect to the Analytics pane.
+3. Select the **Overview (1)** tab and select **Enable (2)** to redirect to the Analytics pane.
 
    ![](images/M02/tenant-enable1.png)
 
@@ -98,7 +98,7 @@ Now in this exercise, you will explore the out-of-the-box analytics that are ava
 
 1. Navigate to **Power Platform admin center**.
 
-2. Expand **Analytics** and select **Power Automate**.
+2. Expand **Analytics (1)** and select **Power Automate (2)**.
 
    ![](images/M02/M2-EX1-T1-S3.png)
 
