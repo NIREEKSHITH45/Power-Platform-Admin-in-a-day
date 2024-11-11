@@ -596,38 +596,21 @@ ID Security group and assign the security role you just built.
 
    ![](images/M01/M1-EX5-T2-S4.png)
 
-5. Select the **Custom Entities** tab.
+5. Scroll down to locate the **Project (1)** table under details.
 
-6. Scroll down to locate the Project table and click on the name of the entity.
+6. To grant this role organization-level read privileges, select the second dot from the left under the **Read (2)** column, scroll up to view the column headers if needed, and choose **Organization (3)** from the dropdown; this will allow any user with this role to view all project records across the organization in the Dataverse environment.
+     
+   ![](images/M01/M1-EX5-T2-S6u.png)
 
-    ![](images/M01/M1-EX5-T2-S6.png)
+7. Select **Save (1)** and **Back (2)**.
 
-7. This action will give this role User rights to the Project entity. If you kept selecting on the label it would increase the permissions with each click until the user had full 
-   privileges.
+    ![](images/M01/M1-EX5-T2-S7u.png)
 
-   ![](images/M01/M1-EX5-T2-S7.png)
+10. Select **Publish all customizations** and wait for the publishing to be completed.
 
-8. You will now give this role organization read privilege. Select the second dot from the left. You can also scroll up and see the column headers.
+    ![](images/M01/M1-EX5-T2-S10u.png)
 
-   ![](images/M01/M1-EX5-T2-S8.png)
-
-9. Click on the same dot two more times or until the dot is totally filled. This will allow any user with this role to see all project records in the Dataverse environment.
-
-    ![](images/M01/M1-EX5-T2-S9.png)
-
-10. Select **Save and Close**.
-
-    ![](images/M01/M1-EX5-T2-S10.png)
-
-11. Select **Done** to update the solution.
-
-    ![](images/M01/M1-EX5-T2-S11.png)
-
-12. Select **Publish all customizations** and wait for the publishing to be completed.
-
-    ![](images/M01/M1-EX5-T2-S12.png)
-
-13. Do not navigate away from this page.
+11. Do not navigate away from this page.
 
 ### Task 3: Share app
 
@@ -635,21 +618,21 @@ ID Security group and assign the security role you just built.
 
 2. Click on **Apps (1)**, then choose **Project List (2)** application, and select **Share (3)**.
 
-   ![](images/M01/po19.png)
+   ![](images/M01/po19u.png)
 
-3. Search for **lab back office** and select it.
+3. Click on the **ellipsis (1)** and select **Use classic sharing (2)**.
 
-    ![](images/M01/M1-EX5-T3-S3.png)
+    ![](images/M01/M1-EX5-T3-S3u.png)
+
+4. Search for **lab back office** and select it.
 
 4. Select on the **Assign a security role** role dropdown.
 
-   ![](images/M01/M1-EX5-T3-S4.png)
+   ![](images/M01/M1-EX5-T3-S4u.png)
 
 5. Select the **Project Manager** and **Basic User** roles and then select **Share**.
 
-   ![](images/M01/M1-EX5-T3-S5.png)
-
-   ![](images/M01/M1-EX5-T3-S6.png)
+   ![](images/M01/M1-EX5-T3-S5u.png)
 
 6. Close the share pane.
 
