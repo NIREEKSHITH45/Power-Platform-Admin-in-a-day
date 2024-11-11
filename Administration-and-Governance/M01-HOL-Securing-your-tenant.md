@@ -626,13 +626,13 @@ ID Security group and assign the security role you just built.
 
 4. Search for **lab back office** and select it.
 
-4. Select on the **Assign a security role** role dropdown.
+5. Select on the **Assign a security role** role dropdown.
 
    ![](images/M01/M1-EX5-T3-S4u.png)
 
-5. Select the **Project Manager** and **Basic User** roles and then select **Share**.
+6. Select the **Project Manager (1)** and **Basic User (2)** roles and then select **Share (3)**.
 
    ![](images/M01/M1-EX5-T3-S5u.png)
 
-6. Close the share pane.
+7. Close the share pane.
 
